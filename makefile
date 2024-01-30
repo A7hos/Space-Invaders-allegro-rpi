@@ -37,7 +37,7 @@ rpi/rpilose.o: rpi/rpilose.c rpi/rpiconst.h rpi/rpilose.h libs/score.h
 rpi/rpigame.o: rpi/rpigame.c rpi/rpiconst.h rpi/rpigame.h rpi/rpipause.h libs/libsconst.h libs/mundo.h libs/movimiento.h libs/dispara.h libs/vidas.h libs/score.h
 	${CC} ${CONFIG} -c rpi/rpigame.c -o rpi/rpigame.o
 
-#LIBS
+#Libs
 libs/score.o: libs/score.c libs/libsconst.h libs/score.h
 	${CC} ${CONFIG} -c libs/score.c -o libs/score.o
 libs/vidas.o: libs/vidas.c libs/vidas.h
