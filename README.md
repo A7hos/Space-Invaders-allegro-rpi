@@ -11,6 +11,6 @@ Trabajo final de programacion con allegro 5 y raspberry pi
 > [!NOTE]
 > En caso de solo querer compilar podemos usar las reglas:
 >
-- "make allinvaders" para compilar el allegro
-
-- "make rpiinvaders" para compilar en rpi
+>- "make allinvaders" para compilar el allegro
+>
+>- "make rpiinvaders" para compilar en rpi
