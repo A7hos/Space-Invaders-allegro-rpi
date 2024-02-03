@@ -1,4 +1,4 @@
-# Space-Inaders-allegro-rpi
+# Space Invaders en Allegro 5 y Raspberry Pi
 Trabajo final de programacion con allegro 5 y raspberry pi
 
 > [!NOTE]
