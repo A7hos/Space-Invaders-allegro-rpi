@@ -14,3 +14,10 @@ Trabajo final de programacion con allegro 5 y raspberry pi
 >- "make allinvaders" para compilar el allegro
 >
 >- "make rpiinvaders" para compilar en rpi
+
+> [!HINT]
+> Si queremos borrar todos los objetos y ejecutables relacionados:
+>
+>- "make allclean" para limpiar el allegro
+>
+>- "make rpiclean" para limpiar en rpi
